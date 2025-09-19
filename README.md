@@ -1,76 +1,90 @@
-# Olá! 👋
 
-<p align="center">
-  <strong>Biólogo de formação, apaixonado por lógica e programação.</strong><br>
-  Estudante de Análise e Desenvolvimento de Sistemas, com foco prático em <strong>Desenvolvimento Full Stack</strong> e <strong>Engenharia de Dados</strong>.
+# Olá, eu sou o Maurício! 👋
+
+<p align="left">
+  Me chamo Maurício, sou biólogo e apaixonado por lógica e programação.<br>
+  Atualmente curso Análise e Desenvolvimento de Sistemas e tenho grande interesse na área de Dados.
 </p>
 
-<p align="center">
-  Atualmente, estou aplicando meus conhecimentos em:
+
+## 🚀 O que estou fazendo no momento:
+
+* 🎓 Cursando Análise e Desenvolvimento de Sistemas;
+* 🧠 Aprofundando meus conhecimentos em Python para análise de dados com `Pandas` e `Scikit-learn`;
+* ⚙️ Desenvolvendo projetos/estudos em C#.
+
+
+<br> <br>
+
+
+## 🛠️ Tenho contato com:
+
+#### Linguagens:
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
-<p align="center">
-  🔹 <strong>Back-end:</strong> Construção de APIs RESTful e aplicações web com <strong>ASP.NET Core</strong>.<br>
-  🔹 <strong>Front-end:</strong> Desenvolvimento de interfaces dinâmicas e interativas com <strong>React</strong>.<br>
-  🔹 <strong>Dados:</strong> Criação de pipelines de <strong>ETL</strong> e automação de processos com <strong>Docker</strong>.
+#### Desenvolvimento Web (Frontend & Backend):
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
 </p>
 
-### 🔗 Conecte-se Comigo
-<p align="center">
-  <a href="https://www.linkedin.com/in/seu-usuario-linkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+#### Dados & Machine Learning:
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/Matplotlib-grey?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn">
+</p>
+
+#### Ferramentas & DevOps:
+<p>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode">
+</p>
+
+<br> <br>
+
+## ✨ Projetos em Destaque
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Análise de Sentimentos</h3>
+      <div align="center">
+        <a href="https://github.com/jampani1/from-data-to-feelings" target="_blank">
+          <img src="https://github.com/jampani1/from-data-to-feelings/blob/main/img/capa.png" width="400" alt="Preview do Projeto Análise de Sentimentos">
+        </a>
+        <p>
+          <a href="https://github.com/jampani1/from-data-to-feelings" target="_blank">
+            <img src="https://img.shields.io/badge/Ver%20Repositório-303030?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositório">
+          </a>
+        </p>
+        <p>
+          Desenvolvimento de um modelo de Machine Learning para classificar _reviews_ de produtos como positivas ou negativas, utilizando alguns modelos (regressão logística, Naive Bayes, Random Forest e Support Vector Machine - SVM) e TF-IDF para processamento de texto.
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      </td>
+  </tr>
+</table>
+
+---
+
+### 📫 Como me encontrar:
+
+<p>
+  <a href="https://www.linkedin.com/in/mauriciojampani" target="_blank">
+    <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn">
   </a>
-  <a href="mailto:seu.email@provedor.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  &nbsp;
+  <a href="mailto:mmjampani13@gmail.com">
+    <img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Email">
   </a>
 </p>
-
----
-## 🚀 Projetos em Destaque
-
-Aqui estão alguns projetos em que trabalhei recentemente. Eles demonstram minhas habilidades práticas em desenvolvimento e engenharia de dados.
-
-<br>
-
-###  ETL de Dados com Docker
-- **Descrição:** Pipeline de Extração, Transformação e Carga para dados ficticios de um banco. O projeto utiliza Python/Pandas para o processamento e é totalmente containerizado com Docker, garantindo a portabilidade e automação do fluxo.
-- **Tecnologias:** `Python`, `Pandas`, `Docker`.
-- **Repositório:** `[Ver no GitHub](https://github.com/jampani1/airflow-docker-etl)`
-
-### 🏆 Desafio de Análise de Dados
-- **Descrição:** Solução desenvolvida para um desafio de dados. O projeto envolveu [mencione as etapas, ex: limpeza, análise exploratória e visualização de dados] para extrair insights e apresentar os resultados.
-- **Tecnologias:** `[Ex: Python, Jupyter Notebook, Matplotlib, Scikit-learn]`
-- **Repositório:** `[Ver no GitHub](https://github.com/jampani1/from-data-to-feelings)`
-
----
-## 🛠️ Tecnologias e Ferramentas
-
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-</p>
-
----
-## 🌱 Minha Jornada e Interesses
-
-- 🌱 **Atualmente estou aprendendo:**
-  - Estruturas de Dados e Algoritmos em C.
-  - Aprofundando conhecimentos em APIs com C# e .NET.
-
-- 👯 **Busco colaborar em:**
-  - Projetos open-source voltados para análise de dados.
-
-- 💬 **Me pergunte sobre:**
-  - A intersecção entre Biologia e Tecnologia (Bioinformática!).
-  - O impacto da bioinformática no desenvolvimento da engenharia genética.
-
-- ⚡ **Fato curioso:**
-  - Minha experiência com pesquisa científica me deu uma base sólida em análise de dados e pensamento crítico, habilidades que me ajudam muito no meu cotidiano.

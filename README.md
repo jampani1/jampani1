@@ -56,37 +56,37 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Análise de Sentimentos</h3>
-      <div align="center">
-        <a href="https://github.com/jampani1/from-data-to-feelings" target="_blank">
-          <img src="https://github.com/jampani1/from-data-to-feelings/blob/main/img/capa.png" width="400" alt="Preview do Projeto Análise de Sentimentos">
-        </a>
-        <p>
-          <a href="https://github.com/jampani1/from-data-to-feelings" target="_blank">
-            <img src="https://img.shields.io/badge/Ver%20Repositório-303030?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositório">
-          </a>
-        </p>
-        <p>
-          Desenvolvimento de um modelo de Machine Learning para classificar <i>reviews</i> de produtos como positivas ou negativas, utilizando alguns modelos (regressão logística, Naive Bayes, Random Forest e Support Vector Machine - SVM) e TF-IDF para processamento de texto.
-        </p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Previsão de Preços de Corridas</h3>
-      <div align="center">
-        <a href="https://github.com/jampani1/ride-price-engine" target="_blank">
-          <img src="https://github.com/jampani1/ride-price-engine/blob/main/imgs/capa.png" width="400" alt="Preview do Projeto de Previsão de Preços">
-        </a>
-        <p>
-          <a href="https://github.com/jampani1/ride-price-engine" target="_blank">
-            <img src="https://img.shields.io/badge/Ver%20Repositório-303030?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositório">
-          </a>
-        </p>
-        <p>
-          Análise de dados de corridas de Uber & Lyft para construir um modelo de Machine Learning (Random Forest) capaz de prever o preço final da viagem com um erro médio de apenas $1.27.
-        </p>
-      </div>
-    </td>
+  <h3 align="center">Análise de Sentimentos</h3>
+  <div align="center">
+    <a href="https://github.com/jampani1/from-data-to-feelings" target="_blank">
+      <img src="https://github.com/jampani1/from-data-to-feelings/blob/main/img/capa.png" width="400" height="200" alt="Preview do Projeto Análise de Sentimentos">
+    </a>
+    <p>
+      <a href="https://github.com/jampani1/from-data-to-feelings" target="_blank">
+        <img src="https://img.shields.io/badge/Ver%20Repositório-303030?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositório">
+      </a>
+    </p>
+    <p>
+      Desenvolvimento de um modelo de Machine Learning para classificar <i>reviews</i> de produtos como positivas ou negativas, utilizando alguns modelos (regressão logística, Naive Bayes, Random Forest e Support Vector Machine - SVM) e TF-IDF para processamento de texto.
+    </p>
+  </div>
+</td>
+<td width="50%">
+  <h3 align="center">Previsão de Preços de Corridas</h3>
+  <div align="center">
+    <a href="https://github.com/jampani1/ride-price-engine" target="_blank">
+      <img src="https://github.com/jampani1/ride-price-engine/blob/main/imgs/capa.png" width="400" height="200" alt="Preview do Projeto de Previsão de Preços">
+    </a>
+    <p>
+      <a href="https://github.com/jampani1/ride-price-engine" target="_blank">
+        <img src="https://img.shields.io/badge/Ver%20Repositório-303030?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositório">
+      </a>
+    </p>
+    <p>
+      Análise de dados de corridas de Uber & Lyft para construir um modelo de Machine Learning (Random Forest) capaz de prever o preço final da viagem com um erro médio de apenas $1.27.
+    </p>
+  </div>
+</td>
   </tr>
 </table>
 

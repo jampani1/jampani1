@@ -6,6 +6,7 @@
   Atualmente curso Análise e Desenvolvimento de Sistemas e tenho grande interesse na área de Dados.
 </p>
 
+<br> <br>
 
 ## 🚀 O que estou fazendo no momento:
 
@@ -81,10 +82,10 @@
 
 <p>
   <a href="https://www.linkedin.com/in/mauriciojampani" target="_blank">
-    <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;
   <a href="mailto:mmjampani13@gmail.com">
-    <img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>

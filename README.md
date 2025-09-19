@@ -1,9 +1,9 @@
 
-# Olá, eu sou o Maurício! 👋
+# E aí! 👋
 
 <p align="left">
-  Me chamo Maurício, sou biólogo e apaixonado por lógica e programação.<br>
-  Atualmente curso Análise e Desenvolvimento de Sistemas e tenho grande interesse na área de Dados.
+  Biólogo e apaixonado por lógica, programação e dados.<br>
+  Atualmente curso Análise e Desenvolvimento de Sistemas.
 </p>
 
 <br> <br>

@@ -67,7 +67,7 @@
           </a>
         </p>
         <p>
-          Desenvolvimento de um modelo de Machine Learning para classificar **reviews** de produtos como positivas ou negativas, utilizando alguns modelos (regressão logística, Naive Bayes, Random Forest e Support Vector Machine - SVM) e TF-IDF para processamento de texto.
+          Desenvolvimento de um modelo de Machine Learning para classificar <i>reviews</i> de produtos como positivas ou negativas, utilizando alguns modelos (regressão logística, Naive Bayes, Random Forest e Support Vector Machine - SVM) e TF-IDF para processamento de texto.
         </p>
       </div>
     </td>

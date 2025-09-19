@@ -77,14 +77,14 @@
         <a href="https://github.com/jampani1/ride-price-engine" target="_blank">
           <img src="https://github.com/jampani1/ride-price-engine/blob/main/imgs/capa.png" width="400" alt="Preview do Projeto de Previsão de Preços">
         </a>
-          <p>
-            <a href="https://github.com/jampani1/ride-price-engine" target="_blank">
-              <img src="https://img.shields.io/badge/Ver%20Repositório-303030?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositório">
-            </a>
-          </p>
-          <p>
-            Análise de dados de corridas de Uber & Lyft para construir um modelo de Machine Learning (Random Forest) capaz de prever o preço final da viagem com um erro médio de apenas $1.27.
-          </p>
+        <p>
+          <a href="https://github.com/jampani1/ride-price-engine" target="_blank">
+            <img src="https://img.shields.io/badge/Ver%20Repositório-303030?style=for-the-badge&logo=github&logoColor=white" alt="Ver Repositório">
+          </a>
+        </p>
+        <p>
+          Análise de dados de corridas de Uber & Lyft para construir um modelo de Machine Learning (Random Forest) capaz de prever o preço final da viagem com um erro médio de apenas $1.27.
+        </p>
       </div>
     </td>
   </tr>

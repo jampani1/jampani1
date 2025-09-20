@@ -3,7 +3,7 @@
 
 <p align="left">
   Biólogo e apaixonado por lógica, programação e dados.<br>
-  Atualmente curso Análise e Desenvolvimento de Sistemas.
+  Durante minha primeira graduação me envolvi em diversos projetos, sendo que o mais significativo para mim se tornou meu Trabalho de Conclusão de Curso, onde pude montar e anotar pela primeira vez o genoma mitocondrial de <i>Neophysopella tropicalis</i>.
 </p>
 
 <br> <br>
@@ -14,9 +14,7 @@
 * 🧠 Aprofundando meus conhecimentos em Python para análise de dados com `Pandas` e `Scikit-learn`;
 * ⚙️ Desenvolvendo projetos/estudos em C#.
 
-
 <br> <br>
-
 
 ## 🛠️ Tenho contato com:
 
@@ -51,7 +49,7 @@
 
 <br> <br>
 
-### ✨ Projetos recentes
+## ✨ Projetos recentes
 
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
@@ -67,7 +65,7 @@
       </a>
     </p>
     <p>
-      Neste projeto de NLP, desenvolvi um modelo para classificar o sentimento em <i>reviews</i> de produtos. Utilizei técnicas como TF-IDF e algoritmos como SVM e Random Forest. <b>Explore o código e veja a análise completa!</b>
+      Neste projeto de NLP, desenvolvi um modelo para classificar o sentimento (positivo ou negativo) em <i>reviews</i> de produtos. Utilizei técnicas como TF-IDF e algoritmos como SVM e Random Forest.
     </p>
   </div>
 </td>
@@ -83,7 +81,7 @@
       </a>
     </p>
     <p>
-      Analisei dados de Uber & Lyft para prever o valor de corridas com um modelo de regressão (Random Forest) que alcançou um erro médio de apenas $1.27. <b>Navegue pelo repositório e veja o passo a passo!</b>
+      Analisei dados de Uber & Lyft para prever o valor de corridas com base em alguns modelos  $1.27.
     </p>
   </div>
 </td>
@@ -98,7 +96,7 @@
   <a href="https://www.linkedin.com/in/mauriciojampani" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  &nbsp;
+  
   <a href="mailto:mmjampani13@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>

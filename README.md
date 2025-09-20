@@ -53,13 +53,13 @@
 
 ### ✨ Projetos recentes
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
   <h3 align="center">Análise de Sentimentos</h3>
   <div align="center">
     <a href="https://github.com/jampani1/from-data-to-feelings" target="_blank">
-      <img src="https://github.com/jampani1/from-data-to-feelings/blob/main/img/capa_review.png?raw=true" width="400" height="300" alt="Preview do Projeto Análise de Sentimentos">
+      <img src="https://github.com/jampani1/from-data-to-feelings/blob/main/img/capa_review.png?raw=true" width="400" alt="Preview do Projeto Análise de Sentimentos">
     </a>
     <p>
       <a href="https://github.com/jampani1/from-data-to-feelings" target="_blank">
@@ -67,15 +67,15 @@
       </a>
     </p>
     <p>
-      Desenvolvimento de um modelo de Machine Learning para classificar <i>reviews</i> de produtos como positivas ou negativas, utilizando alguns modelos (regressão logística, Naive Bayes, Random Forest e Support Vector Machine - SVM) e TF-IDF para processamento de texto.
+      Neste projeto de NLP, desenvolvi um modelo para classificar o sentimento em <i>reviews</i> de produtos. Utilizei técnicas como TF-IDF e algoritmos como SVM e Random Forest. <b>Explore o código e veja a análise completa!</b>
     </p>
   </div>
 </td>
-<td width="50%">
+<td width="50%" valign="top">
   <h3 align="center">Previsão de Preços de Corridas</h3>
   <div align="center">
     <a href="https://github.com/jampani1/ride-price-engine" target="_blank">
-      <img src="https://github.com/jampani1/ride-price-engine/blob/main/imgs/capa_ride.png?raw=true" width="400" height="300" alt="Preview do Projeto de Previsão de Preços">
+      <img src="https://github.com/jampani1/ride-price-engine/blob/main/imgs/capa_ride.png?raw=true" width="400" alt="Preview do Projeto de Previsão de Preços">
     </a>
     <p>
       <a href="https://github.com/jampani1/ride-price-engine" target="_blank">
@@ -83,7 +83,7 @@
       </a>
     </p>
     <p>
-      Análise de dados de corridas de Uber & Lyft para construir um modelo de Machine Learning (Random Forest) capaz de prever o preço final da viagem com um erro médio de apenas $1.27.
+      Analisei dados de Uber & Lyft para prever o valor de corridas com um modelo de regressão (Random Forest) que alcançou um erro médio de apenas $1.27. <b>Navegue pelo repositório e veja o passo a passo!</b>
     </p>
   </div>
 </td>

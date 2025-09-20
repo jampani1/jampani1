@@ -75,7 +75,7 @@
   <h3 align="center">Previsão de Preços de Corridas</h3>
   <div align="center">
     <a href="https://github.com/jampani1/ride-price-engine" target="_blank">
-      <img src="https://github.com/jampani1/ride-price-engine/blob/main/imgs/capa.png" width="400" height="200" alt="Preview do Projeto de Previsão de Preços">
+      <img src="https://github.com/jampani1/ride-price-engine/blob/main/imgs/capa.png" width="400" height="390" alt="Preview do Projeto de Previsão de Preços">
     </a>
     <p>
       <a href="https://github.com/jampani1/ride-price-engine" target="_blank">

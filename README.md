@@ -55,7 +55,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="50%" valign="top">
+<!--     <td width="50%" valign="top">
   <h3 align="center">Análise de Sentimentos</h3>
   <div align="center">
     <a href="https://github.com/jampani1/from-data-to-feelings" target="_blank">
@@ -70,7 +70,7 @@
       Neste projeto de NLP, foi desenvolvido um modelo para classificar o sentimento (positivo ou negativo) em <i>reviews</i> de produtos. Foram utilizadas técnicas como <b>TF-IDF</b> para processamento dos dados e algoritmos como SVM e Random Forest para modelagem. Além disso, foi considerado como métrica mais importante para determinação do modelo o recall da classe negativa (garantia de que nenhuma análise negativa foi "confundida/considerada" como positiva, uma das métricas mais importantes para a área de vendas.
     </p>
   </div>
-</td>
+</td> -->
 <td width="50%" valign="top">
   <h3 align="center">Previsão de Preços de Corridas</h3>
   <div align="center">

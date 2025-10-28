@@ -3,52 +3,66 @@
 
 <p align="left">
   Biólogo e apaixonado por lógica, programação e dados.<br>
-  Durante minha primeira graduação me envolvi em diversos projetos, sendo que o mais significativo para mim se tornou meu Trabalho de Conclusão de Curso, onde pude montar e anotar pela primeira vez o genoma mitocondrial de <i>Neophysopella tropicalis</i>.
+  Durante minha primeira graduação me envolvi em diversos projetos, sendo que o mais significativo para mim se tornou meu Trabalho de Conclusão de Curso, onde pude montar e anotar ineditamente o genoma mitocondrial de <i>Neophysopella tropicalis</i>.
 </p>
 
 <br> <br>
 
-## 🚀 O que estou fazendo no momento:
+## 🚀 No que estou focado agora:
 
-* 🎓 Cursando Análise e Desenvolvimento de Sistemas;
-* 🧠 Aprofundando meus conhecimentos em Python para análise de dados com `Pandas` e `Scikit-learn`;
-* ⚙️ Desenvolvendo projetos/estudos em C#.
+* **⚙️ Back-end & Cloud:**
+    * Aprimorando em **C#** e **.NET** ao arquitetar e desenvolver meu projeto pessoal relacionado à um preditor de <i>rounds</i> de um jogo <i>mobile</i>, meu principal projeto de API. Tatics Forge <i>incoming</i>.
+    * Estudando fundamentos de **Cloud Computing** (Infraestrutura, Deployment e Segurança) na trilha de estudo [DevOps | Basics](https://comunidade.ada.tech/trilhas) na **Ada Tech**.
+
+* **📊 Data & Business Intelligence:**
+    * Imerso no <i>bootcamp</i> de **BI** da [DIO em colaboração com a Klabin](https://web.dio.me/track/klabin-excel-e-power-bi-dashboards), com foco prático em **Power BI**, **SQL** e **Excel** para análise de negócios.
+    * Evoluindo em **Python** para Análise de Dados, aplicando bibliotecas como **Pandas** e **Scikit-learn**.
+
+* **🎨 Front-end:**
+    * Construindo meu **Portfólio Pessoal** com **Next.js** e **Tailwind CSS** para centralizar meus projetos.
+    * Aplicando conceitos como **Sass** e outros relacionados à design responsivo durante a formação Empower [VNW](https://vainaweb.com.br/) da **Escola Vai na Web**.
 
 <br> <br>
 
 ## 🛠️ Tenho contato com:
 <center>
+## 🛠️ Habilidades & Ferramentas
+<center>
 
-#### Linguagens
+#### Frontend
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
 </p>
 
-#### Desenvolvimento Web (Frontend & Backend)
+#### Backend & Databases
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </p>
 
-#### Dados & Machine Learning
+#### Dados & Business Intelligence
 <p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-  <img src="https://img.shields.io/badge/Matplotlib-grey?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/Matplotlib-grey?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
 </p>
 
 #### Ferramentas & DevOps
 <p>
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode">
-</p>
-</center>
-
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode">
 <br> <br>
 
 ## ✨ Projetos recentes

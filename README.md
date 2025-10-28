@@ -26,8 +26,6 @@
 
 ## 🛠️ Tenho contato com:
 <center>
-## 🛠️ Habilidades & Ferramentas
-<center>
 
 #### Frontend
 <p>
